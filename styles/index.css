@@ -83,7 +83,7 @@ main {
   margin: 2px;
   opacity: 10%;
 }
-
+/* 마우스가 올라가면 진해진다. */
 #imgIcon > img:hover, #imgIcon > img:active {
   opacity: 100%;
 }
